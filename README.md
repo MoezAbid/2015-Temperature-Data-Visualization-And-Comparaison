@@ -25,9 +25,7 @@ We will :
 The data contains temperature information for **Ann Arbor, Michigan, United States**, and the stations the data comes from are shown on the map below.
 
 ![Temperature stations in Ann Arbor, Michigan, United States](/Map.png)
-Format: ![Temperature in Ann Arbor, Michigan, United States](url)
 
 And final graph is shown below :
 ![2015's temperature breaking points against 2005-2014 in Ann Arbor, Michigan, US](/Temp_Plot.png)
-Format: ![2015 vs 2005-2014](url)
 
